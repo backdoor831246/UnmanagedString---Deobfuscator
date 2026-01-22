@@ -24,3 +24,5 @@ Designed specifically for the UnmanagedString injector shown in this repository
 
 Supports x86 and x64 assemblies
 
+PoC
+
